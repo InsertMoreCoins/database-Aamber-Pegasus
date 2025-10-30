@@ -70,8 +70,8 @@
     "https://www.png",
     "https://hyperspin-fe.com/siteuploads/downloads/screenshots/monthly_2021_11/Main.png.5dbf05939be123f195c41036d046a4a9.png"
   ],
-  "tiene_review": false,
-  "review_score": null,
+  "tiene_review": true,
+  "review_score": 2.5,
   "carpeta_slug": "invaders",
   "nombre_xml": "Aamber Pegasus",
   "sistema_slug": "aamber-pegasus",
