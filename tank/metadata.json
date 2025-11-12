@@ -73,8 +73,8 @@
     "https://es.png",
     "https://www.png"
   ],
-  "tiene_review": false,
-  "review_score": null,
+  "tiene_review": true,
+  "review_score": 3.5,
   "carpeta_slug": "tank",
   "nombre_xml": "Aamber Pegasus",
   "sistema_slug": "aamber-pegasus",
